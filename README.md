@@ -2,7 +2,7 @@
 Compiles my personal learning journey on Coursera. Opinions are of my own and does not represent my current company. 
 
 - Trivia
-1. I try to avoid copying concepts that is already in the course note sheets. 
+1. I do not copy concepts that is already in the course note sheets. 
 2. Believing everything in books is worse than having no books at all.
 3. I do try to make a copy of the learning goals from each module before the lesson starts. 
 4. I do keep notes of things I found interesting. They could be a paragraph of dictation from the professor, a side notation 
