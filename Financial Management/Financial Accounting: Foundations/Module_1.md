@@ -5,4 +5,5 @@
 - Identify main financial statements, type of information each provides, and how they are related to each other. 
 
 2. Notes
-- Goals are always necessary to keep in mind before jumping in... I guess. 
+- Goals are always necessary to keep in mind before jumping in... I guess. Anyway I should jump back to https://www.coursera.org/learn/financial-accounting-basics/supplement/mVNCq/module-1-overview after done. 
+- 
