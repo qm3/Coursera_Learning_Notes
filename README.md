@@ -6,7 +6,7 @@ Compiles my personal learning journey on Coursera. Opinions are of my own and do
 2. Believing everything in books is worse than having no books at all.
 3. I do try to make a copy of the learning goals from each module before the lesson starts. 
 4. I do keep notes of things I found interesting. They could be a paragraph of dictation from the professor, a side notation 
-of things I checked from the Internet, a dumped gists of my own. Things like that. 
+of things I checked from the Internet, a dumped gists of my own thoughts. Things like that. 
 5. Opinions are of my own. 
 
 
